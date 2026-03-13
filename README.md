@@ -1,6 +1,6 @@
 # rogerharkavy.github.io
 
-![Roger](https://github.com/rogerharkavy/rogerharkavy.github.io/blob/main/sofvitokyo-roger-japanese-crop.jpg "Roger as he appeared in a comic on sofvi.tokyo.")
+![Roger](https://raw.githubusercontent.com/rogerharkavy/rogerharkavy.github.io/refs/heads/main/sofvitokyo-roger-japanese-crop.jpg "Roger as he appeared in a comic on sofvi.tokyo.")
 
 Right now, there's just one GitHub project I'm working on:
 
